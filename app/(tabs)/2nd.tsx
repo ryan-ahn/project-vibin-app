@@ -1,4 +1,4 @@
-import SearchScreen from "../(stack)/search";
+import SearchScreen from "../(screen)/search";
 
 /**
  * ===============================

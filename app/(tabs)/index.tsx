@@ -1,4 +1,4 @@
-import HomeScreen from "../(stack)/home";
+import HomeScreen from "../(screen)/home";
 
 export default function IndexScreen() {
   return <HomeScreen />;
